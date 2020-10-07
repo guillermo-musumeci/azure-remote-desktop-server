@@ -1,5 +1,8 @@
-# Azure Remote Desktop Server (RDS) Terraform
+# Azure Terraform DSC Repository
 
-Deploying an Azure Remote Desktop Server (RDS) using Terraform
+PowerShell Desired State Configuration (DSC) scripts:
 
-Based on https://raw.githubusercontent.com/canada-ca-terraform-modules/terraform-azurerm-remote-desktop-service repository work
+* Configuration.zip --> Remote Desktop Services
+
+* WebServer --> IIS Web Server
+
